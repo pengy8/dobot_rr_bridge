@@ -1,7 +1,7 @@
 # dobot_rr_bridge
 Dobot Robot Raconteur Service
 
-This Repo provides Robot Raconteur (RR) Service for Dobot with two different tool configuration (gripper/suction cup).
+This Repo provides Robot Raconteur (RR) Service for Dobot with two different tool configurations (gripper/suction cup).
 
 To run the service, please modify the COM port in "DobotSerialInterface.py" (default is 'COM4') and run this "DobotSerialInterface.py" file directly.
 
